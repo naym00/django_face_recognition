@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "nose": {"points": [28, 31],"ideal": 70},
+        "left_eye": {"points": [37, 40],"ideal": 50},
+        "right_eye": {"points": [43, 46],"ideal": 50},
+        "lip": {"points": [49, 55],"ideal": 90},
+        "horizontal": {"points": [1, 17],"ideal": 250},
+        "vertical": {"points": [28, 58],"ideal": 150}
+    },
+    "selected": "horizontal"
+}
